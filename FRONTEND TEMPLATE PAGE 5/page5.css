@@ -1,0 +1,143 @@
+*{
+    box-sizing: border-box;
+}
+
+/* NAV STARTS */
+
+footer {
+  background-color: #0066ff;
+  color: white;
+  padding-top: 2rem;
+  font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+  
+}
+footer a {
+  color: white;
+}
+
+hr.light {
+  border: 0.5px solid white;
+  width: 100%; 
+  margin-top: .8rem;
+  margin-bottom: 1rem;
+  width: 95%;
+}
+.navigate1{
+font-size: 13px;
+font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+}
+
+.logo{
+  font-size: 28px;
+font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+
+}
+
+.navigate2inp {
+  border: none !important;
+}
+
+.navigate2inpfs {
+  font-size: 13px;
+  font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+}
+
+.navigate2inpfslogo{
+  font-size: 20px;
+  margin-top: 8px;
+
+}
+
+.navigate2shoppingca{
+  font-size: 13px;
+  font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+}
+
+.navigate2shoppingcalogo{
+  font-size: 28px;
+}
+
+
+
+.viewcart {
+  font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+font-size: 13px;
+}
+
+/* NAV ENDS */
+
+  .buttons {
+    height: 36px;
+    width: 36px;
+  }
+
+  .buttonsi{
+    height: 36px;
+    width: 36px;
+    background: white;
+  }
+
+  #buttons1 {
+    background:  rgb(29, 29, 29);
+  }
+
+  #buttons2 {
+    background: rgb(218, 218, 218);
+  }
+
+  #buttons3 {
+    background: rgb(89, 112, 135);
+  }
+
+  .map-container{
+    overflow:hidden;
+    padding-bottom:56.25%;
+    position:relative;
+    height:0;
+    }
+    .map-container iframe{
+    left:0;
+    top:0;
+    height:50%;
+    width:90%;
+    position:absolute;
+    }
+
+    .inputlar input {
+border-top: none;
+border-right: none;
+border-left: none;
+
+
+    }
+
+    .inputlar {
+      color: #666;
+      font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+
+    }
+
+    .rulebl {
+      border: 0.5px solid;
+      width: 100%;
+      margin-top: .8rem;
+      margin-bottom: 1.8rem;
+      width: 95%;
+ 
+    }
+
+
+    /* ALLCAT SCROLL */
+    .scrollable-menu {
+      height: auto;
+      max-height: 200px;
+      overflow-x: hidden;
+  }
+
+  .letters a {
+color: #666 !important;
+font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+
+  }
+/* ALLCAT SCROLL ENDS */
+ 
